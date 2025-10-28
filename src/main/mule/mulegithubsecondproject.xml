@@ -9,6 +9,6 @@
 				<fixed-frequency frequency="10000"/>
 			</scheduling-strategy>
 		</scheduler>
-		<logger level="INFO" doc:name="Logger" doc:id="a2253b5e-e255-4614-8056-d653f804d267" message="This is the second Mule Project"/>
+		<logger level="INFO" doc:name="Logger" doc:id="a2253b5e-e255-4614-8056-d653f804d267" message="This is the second Mule Project for sand box"/>
 	</flow>
 </mule>
